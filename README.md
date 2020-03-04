@@ -1,1 +1,3 @@
 # ato-test-2
+accountSid=ACaff9c1a667f2cd1d36df032632a4852d
+authToken=1a5c0ded8409b31c2639813bfce1c303
